@@ -1,0 +1,10 @@
+Context
+Needed to make a pothole detection model for my college project, so scraped these images off of the internet and put it here for ease of use.
+
+Content
+The dataset contains two folders - normal and potholes. 'Normal' contains images of smooth roads from different angles and 'Potholes' contains images of roads with potholes in them.
+
+
+
+=================================================
+https://www.kaggle.com/atulyakumar98/pothole-detection-dataset
